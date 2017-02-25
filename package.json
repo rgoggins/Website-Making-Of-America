@@ -25,5 +25,8 @@
     "url": "https://github.com/BlackrockDigital/startbootstrap-clean-blog.git"
   }
 
+  "scripts": {
+    "start": "node clean-blog.js"
+  }
 
 }
