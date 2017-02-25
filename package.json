@@ -26,7 +26,7 @@
   }
 
   "scripts": {
-      "start": "gulpfile.js"
+      "start": "clean-blog.js"
   }
 
 }
